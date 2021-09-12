@@ -1,0 +1,50 @@
+* {
+    padding: 0px;
+}
+body {
+    display: block;
+    text-align: center;
+    background: #fcb17e;
+}
+
+.group2 {
+    background-color: #ffe1af;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: auto;
+    padding-left: auto;
+    font-family: "mountserra-Blond";
+}
+
+#justification {
+    font-family: "mountserra-Blond";
+    color: #543623;
+    text-transform: uppercase;
+    margin: 50px;
+    font-size: 80px;
+}
+
+img {
+    margin-bottom: 40px;
+}
+
+#text {
+    font-family: "mountserra-Blond";
+    color: #543623;
+    background: #fcb17e;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+    padding: 30px;
+}
+
+a:hover {
+    color: #af466c;
+}

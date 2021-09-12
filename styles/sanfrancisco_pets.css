@@ -1,0 +1,85 @@
+* {
+    font-family: "mountserra-Blond";
+    color: #543623;
+    padding: 0px;
+}
+
+li {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body {
+    display: block;
+    text-align: center;
+    background: #fcb17e;
+}
+
+.group1 {
+    background-color: #ffe1af;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: auto;
+    padding-left: auto;
+}
+
+.menu {
+    padding: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+.menu li {
+    list-style: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-left: 2px solid #543623;
+    font-size: 25px;
+    letter-spacing: 0.03em;
+    font-weight: bolder ;
+    color: #543623;
+}
+
+#firstitem {
+    border-left: none;
+}
+
+a {
+    color: #543623;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #af466c;
+}
+
+.header {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.photos {
+    float: left;
+    margin: 50px 94px;
+}
+
+.foot {
+    clear: both;
+    font-size: 20px;
+}
+
+footer {
+    padding-bottom: 30px;
+    font-weight: lighter;
+    color: #543623;
+    }
